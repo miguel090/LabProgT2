@@ -1,1 +1,1 @@
-Simulater of a supermarket, assignment
+Simulator of a supermarket, assignment
